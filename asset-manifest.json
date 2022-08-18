@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-bussines-card/static/css/main.6ac1c2de.css",
+    "main.js": "/react-bussines-card/static/js/main.7b51f1da.js",
+    "static/media/logo.svg": "/react-bussines-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-bussines-card/index.html",
+    "main.6ac1c2de.css.map": "/react-bussines-card/static/css/main.6ac1c2de.css.map",
+    "main.7b51f1da.js.map": "/react-bussines-card/static/js/main.7b51f1da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac1c2de.css",
+    "static/js/main.7b51f1da.js"
+  ]
+}
